@@ -1,13 +1,12 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+アプリケーションを動作させるための環境。
 
 Things you may want to cover:
 
 * Ruby version
 
-* System dependencies
+* System dependencies 
 
 * Configuration
 
